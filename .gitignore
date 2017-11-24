@@ -1,2 +1,5 @@
 __pycache__/
 *.pyc
+socket.sock
+log/
+venv/
